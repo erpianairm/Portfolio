@@ -1,5 +1,3 @@
-# Portfolio Profile
-https://www.figma.com/proto/Ce2DudMq3JmDN9GH2o4P0f/Untitled?node-id=1-3&t=CVsNqyP7DeMWSzDv-1
 
 # Portfolio Design
 
